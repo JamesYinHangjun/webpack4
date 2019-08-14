@@ -1,0 +1,1 @@
+console.log("单一入口entry.js")
